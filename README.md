@@ -7,19 +7,19 @@
 # 2.Mô tả chung:
    Trong 60s người choi điều khiển chuột, clicks vào con chuột trong màn game xuất hiện ramdom từ 9 lỗ để dành được số điểm cao nhất.
 # 3.Các chức năng đã cài đặt:
-   Menu đơn giản
-   Đếm ngược thời gian
-   Tính điểm
-   Màn hình kết thúc trò chơi
-   Âm nhạc 
+   + Menu đơn giản
+   + Đếm ngược thời gian
+   + Tính điểm
+   + Màn hình kết thúc trò chơi
+   + Âm nhạc 
 # 4.Các kỹ thuật được sử dụng:
-    Mảng 
-    Con trỏ
-    Class
-    Hình ảnh
-    Âm thanh
-    Chữ
-    Tương tác với chuột
+    + Mảng 
+    + Con trỏ
+    + Class
+    + Hình ảnh
+    + Âm thanh
+    + Chữ
+    + Tương tác với chuột
  # 5.Kết luận:
   + Hướng phát triển:
      - Lưu lại được điểm 5 người chơi cao nhất
