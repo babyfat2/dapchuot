@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1653051734 source:c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Image.h"
+	"ClickMouse.h"
+
+1652326812 source:c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\background.cpp
+	"Background.h"
+
+1652377356 c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\background.h
+	<SDL.h>
+	<string>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1652695879 source:c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\button.cpp
+	"Button.h"
+
+1652638481 c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\button.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<string>
+
+1653050778 source:c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\image.cpp
+	"Image.h"
+
+1653049636 c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\image.h
+	<SDL.h>
+	<SDl_image.h>
+	<SDL_ttf.h>
+	<string>
+	<SDL_mixer.h>
+
+1652866663 source:c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\mouse.cpp
+	"mouse.h"
+
+1652837790 c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\mouse.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<string>
+
+1652970775 c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\ingame.h
+	"Image.h"
+	<iostream>
+	<SDL.h>
+	<SDl_image.h>
+	<SDL_ttf.h>
+	<string>
+	<SDL_mixer.h>
+	<ctime>
+	<cstdlib>
+
+1652970426 source:c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\ingame.cpp
+	"InGame.h"
+
+1653051293 source:c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\clickmouse.cpp
+	"ClickMouse.h"
+
+1653051293 c:\users\doduc\onedrive\documents\baitaplon\dapcchuot\clickmouse.h
+	<SDL.h>
+
+1653104412 source:c:\users\doduc\onedrive\documents\baitaplon\dapcchuot - copy (2)\clickmouse.cpp
+	"ClickMouse.h"
+
+1653104354 c:\users\doduc\onedrive\documents\baitaplon\dapcchuot - copy (2)\clickmouse.h
+	<SDL.h>
+
+1653104801 source:c:\users\doduc\onedrive\documents\baitaplon\dapcchuot - copy (2)\image.cpp
+	"Image.h"
+
+1653104321 c:\users\doduc\onedrive\documents\baitaplon\dapcchuot - copy (2)\image.h
+	<SDL.h>
+	<SDl_image.h>
+	<SDL_ttf.h>
+	<string>
+	<SDL_mixer.h>
+
+1653104692 source:c:\users\doduc\onedrive\documents\baitaplon\dapcchuot - copy (2)\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Image.h"
+	"ClickMouse.h"
+
+1653104412 source:c:\users\doduc\onedrive\documents\baitaplon\dapchuot\clickmouse.cpp
+	"ClickMouse.h"
+
+1653104354 c:\users\doduc\onedrive\documents\baitaplon\dapchuot\clickmouse.h
+	<SDL.h>
+
+1653105255 source:c:\users\doduc\onedrive\documents\baitaplon\dapchuot\image.cpp
+	"Image.h"
+
+1653118323 c:\users\doduc\onedrive\documents\baitaplon\dapchuot\image.h
+	<SDL.h>
+	<SDl_image.h>
+	<SDL_ttf.h>
+	<string>
+
+1653130796 source:c:\users\doduc\onedrive\documents\baitaplon\dapchuot\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<SDL_mixer.h>
+	"Image.h"
+	"ClickMouse.h"
+
+1653104412 source:c:\users\doduc\onedrive\documents\baitaplon\dapchuot - copy\clickmouse.cpp
+	"ClickMouse.h"
+
+1653104354 c:\users\doduc\onedrive\documents\baitaplon\dapchuot - copy\clickmouse.h
+	<SDL.h>
+
+1653105255 source:c:\users\doduc\onedrive\documents\baitaplon\dapchuot - copy\image.cpp
+	"Image.h"
+
+1653118323 c:\users\doduc\onedrive\documents\baitaplon\dapchuot - copy\image.h
+	<SDL.h>
+	<SDl_image.h>
+	<SDL_ttf.h>
+	<string>
+
+1653130130 source:c:\users\doduc\onedrive\documents\baitaplon\dapchuot - copy\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<SDL_mixer.h>
+	"Image.h"
+	"ClickMouse.h"
+
+1653112831 source:c:\users\doduc\onedrive\documents\baitaplon\dapchuot - copy\music.cpp
+
+1653129104 source:c:\users\doduc\onedrive\documents\baitaplon\dapchuot\music.cpp
+	"music.h"
+
+1653129245 c:\users\doduc\onedrive\documents\baitaplon\dapchuot\music.h
+
