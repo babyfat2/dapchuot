@@ -21,10 +21,10 @@
     Chữ
     Tương tác với chuột
  # 5.Kết luận:
-   Hướng phát triển:
+  + Hướng phát triển:
      Lưu lại được điểm 5 người chơi cao nhất
      Người chơi có thể chọn thời gian chơi, tốc độ xuất hiện của con chuột
      Có thể chơi lại nếu muốn
      Biến con chuột máy tính thành hình chiếc búa
-   Điều tâm đắc rút ra sau khi hoàn thiện chương trình
+  + Điều tâm đắc rút ra sau khi hoàn thiện chương trình
      Em cảm thấy vui khi lần đầu làm được 1 game có thể hoạt động.
