@@ -1,12 +1,13 @@
 # Đập chuột
   Sinh viên : Đỗ Minh Đức - MSV: 21020304
 # 1.Hướng dẫn cài đặt:
-   Tải codeblock
-   Tải các thư viện
-   Tải file
+   + Tải codeblock: https://www.codeblocks.org/downloads/.
+   + Tải các thư viện: https://wiki.libsdl.org/Libraries ,https://www.libsdl.org/download-2.0.php.
+   + Tải file trên git về.
 # 2.Mô tả chung, ý tưởng:
    + Mô tả chung : Trong 60s người choi điều khiển chuột, clicks vào con chuột trong màn game xuất hiện ramdom từ 9 lỗ để dành được số điểm cao nhất.
    + Ý tưởng: sử dụng hàm ramdom() để con chuột xuất hiện ở các lỗ, mỗi khi chuột ấn đúng 1 tiêu người chơi sẽ được cộng 1 điểm.
+   + Video minh họa: https://www.youtube.com/watch?v=zUpSDLeGw3A
 # 3.Các chức năng đã cài đặt:
    + Menu đơn giản
    + Đếm ngược thời gian
