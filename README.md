@@ -4,8 +4,9 @@
    Tải codeblock
    Tải các thư viện
    Tải file
-# 2.Mô tả chung:
-   Trong 60s người choi điều khiển chuột, clicks vào con chuột trong màn game xuất hiện ramdom từ 9 lỗ để dành được số điểm cao nhất.
+# 2.Mô tả chung, ý tưởng:
+   + Mô tả chung : Trong 60s người choi điều khiển chuột, clicks vào con chuột trong màn game xuất hiện ramdom từ 9 lỗ để dành được số điểm cao nhất.
+   + Ý tưởng: sử dụng hàm ramdom() để con chuột xuất hiện ở các lỗ, mỗi khi chuột ấn đúng 1 tiêu người chơi sẽ được cộng 1 điểm.
 # 3.Các chức năng đã cài đặt:
    + Menu đơn giản
    + Đếm ngược thời gian
