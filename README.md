@@ -17,7 +17,6 @@
 # 4.Các kỹ thuật được sử dụng:
     + Mảng 
     + Con trỏ
-    + Class
     + Hình ảnh
     + Âm thanh
     + Chữ
